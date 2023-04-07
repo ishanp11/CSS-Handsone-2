@@ -1,0 +1,152 @@
+body{
+    background-image: url(./resto.jpg);
+}
+.box1{
+    color: yellow;
+    background-color: red;
+    height: 140px;
+    width: 385px;
+    border-radius: 10%;
+    border: 10px solid yellow;
+    text-align: center;
+    
+}
+.box2{background-color: red;
+    color: yellow;
+    height: 59pxpx;
+    width: 655px;
+    border-radius: 10%;
+    border: 10px solid yellow;
+    text-align: center;
+    margin-left:  276px;;
+    margin-top: -147px;
+    position: absolute;
+    text-align: center;
+    
+    
+}
+.box3{background-color: red;
+    color: yellow;
+    height: 156px;
+    width: 341px;
+    border-radius: 10%;
+    border: 10px solid yellow;
+    text-align: center;
+    margin-left:  1047px;;
+    margin-top: -162px;
+    position: absolute;
+    text-align: center;
+    
+
+}
+.circle{
+    border-radius: 50%;
+    background-color:tomato;
+    color: yellow;
+    width: 500px;
+    height: 500px;
+    border: 10px solid yellow;
+    text-align: center;
+    text-decoration-line: underline;
+    margin-top: 81px;
+    margin-left: 155px;
+    text-decoration-style: solid;
+    font-style: italic;
+}
+.formbox{
+    height: 800px;
+    width: 500px;
+    background-color: rgb(184, 57, 57);
+    color: yellow;
+    margin-top: -500px;
+    margin-left: 801px;
+    text-align: center;
+    border-style: dashed;
+    border-color: rgb(red, green, blue);
+    border-width: 10px;
+    
+
+}
+.menu{
+    background-color: chocolate;
+    height: 52PX;
+    width: 439PX;
+    margin-left: 529px;
+    border-radius: 25px;
+    text-align: center;
+    border: 15px solid yellow;
+    font-style: italic;
+
+    
+    
+
+    
+}
+.menubox1{
+    background-color:darkgray;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+.menubox2{
+    background-color: darkgray;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+.menubox3{
+
+    background-color: darkgray;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+.menubox4{
+
+    background-color: darkgrey;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+.menubox5{
+    background-color: darkgrey;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+}
+.menubox6{
+    background-color: darkgrey;
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+
+}
+.flex{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+    align-content: center;
+    margin: 10px;
+    text-decoration-color: red;
+    
+}
+li{
+    color: brown;
+    font-size: 20px;
+    text-align: left;
+}
+h1{
+    color: crimson;
+}
